@@ -1,0 +1,14 @@
+{
+  "DEFAULTS": {
+    "AUTHORS": [ 767475512959696950 ],
+    "ACTIVITY_TEXT": "~Valeria Voice System",
+    "GUILD_ID": "806970702103576576",
+    "VOICE_CHANNEL": "806970702732722219",
+    "MIN_STAFF_ROLE": "806970702208172108"
+  },
+  "FILES": {
+    "WELCOME": "default_files/hosgeldin.mp3",
+    "STAFF": "default_files/hosgeldin.mp3"
+  },
+  "TOKEN": "ODEzMjUzNzY0MTY0MDkxOTQ0.YDMnlg.SQlXJJ-vXagqbklBsXz95C-025U"
+}
